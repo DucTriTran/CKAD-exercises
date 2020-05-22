@@ -235,7 +235,7 @@ kubectl delete po busybox busybox2
 </p>
 </details>
 
-### Create a busybox pod with 'sleep 3600' as arguments. Copy '/etc/passwd' from the pod to your local folder
+### **Create a busybox pod with 'sleep 3600' as arguments. Copy '/etc/passwd' from the pod to your local folder
 
 <details><summary>show</summary>
 <p>
